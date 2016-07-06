@@ -4,13 +4,13 @@ package com.interview.puzzle;
  * In front of you are three boxes. One contains only apples, one contains only oranges 
  * and one contains a mix of apples and oranges. Each box is labeled, like this:
  * 
- * Box 1: “apples”
- * Box 2: “oranges”
- * Box 3: “apples & oranges”
+ * Box 1: "apples"
+ * Box 2: "oranges"
+ * Box 3: "apples & oranges"
  * 
  * Unfortunately, all three boxes are mislabeled. You should fix those labels.
  * 
- * Here’s the challenge: You get to choose one, and only one, box. 
+ * Here's the challenge: You get to choose one, and only one, box. 
  * You should take a randomly selected piece of fruit from your chosen box 
  * and check what is the fruit.  After that, you will be able to accurately 
  * and definitively relabel all three boxes.
