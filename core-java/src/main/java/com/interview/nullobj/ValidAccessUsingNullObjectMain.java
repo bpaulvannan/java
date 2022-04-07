@@ -4,7 +4,7 @@ public class ValidAccessUsingNullObjectMain {
 	private static final int ID = 1;
 	public static void main(String[] args) {
 		
-		ValidAccessUsingNullObjectMain nullObject = new ValidAccessUsingNullObjectMain();
+		ValidAccessUsingNullObjectMain nullObject = null;
 		System.out.println( "ID = " + nullObject.ID);
 	}
 
