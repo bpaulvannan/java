@@ -5,4 +5,9 @@
   <version>1.0.0</version>
   <name>data-structures</name>
   <description>Data Structures</description>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
+  </properties>
 </project>

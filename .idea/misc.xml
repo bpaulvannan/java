@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/core-java/pom.xml" />
         <option value="$PROJECT_DIR$/data-structures/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
