@@ -19,9 +19,9 @@ public class RotateImage {
         for(int r=0; r<rows;r++){
             for(int c=0;c<midCol;c++){
                 int n = input[r][c];
-                int c1 = cols - c - 1;
-                input[r][c] = input[r][c1];
-                input[r][c1] = n;
+                int newC = cols - c - 1;
+                input[r][c] = input[r][newC];
+                input[r][newC] = n;
             }
         }
         print(  " after ", input);
